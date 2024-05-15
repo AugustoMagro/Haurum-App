@@ -139,6 +139,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+TOKEN-HAURUM
+TOKEN-MANAGE
 
 # Spyder project settings
 .spyderproject
